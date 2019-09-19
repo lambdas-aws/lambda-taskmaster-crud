@@ -1,5 +1,5 @@
 {
-  "name": "lambda-taskmaster-crud",
+  "name": "javascript-ddb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lambda-multipart-parser": "0.0.2",
+    "uuid": "^3.3.3"
+  }
 }
